@@ -6,33 +6,6 @@ The application is designed as an Android client that allows two real players to
 
 ---
 
-## Table of contents
-
-* [Project overview](#project-overview)
-* [Project member](#project-member)
-* [Assignment requirements](#assignment-requirements)
-* [Game rules](#game-rules)
-* [How to run the project](#how-to-run-the-project)
-* [How to play](#how-to-play)
-* [Online multiplayer flow](#online-multiplayer-flow)
-* [Application features](#application-features)
-* [User interface and design](#user-interface-and-design)
-* [Project architecture](#project-architecture)
-* [Project structure](#project-structure)
-* [Network communication](#network-communication)
-* [Error handling](#error-handling)
-* [Testing](#testing)
-* [Technology stack](#technology-stack)
-* [Course concepts applied](#course-concepts-applied)
-* [Known limitations](#known-limitations)
-* [Privacy and data](#privacy-and-data)
-* [Submission information](#submission-information)
-* [Credits and references](#credits-and-references)
-* [AI assistance disclosure](#ai-assistance-disclosure)
-* [Final checklist](#final-checklist)
-
----
-
 ## Project overview
 
 **Fleet Command – Battleship** is a mobile Android application that implements the classic Battleship game.
